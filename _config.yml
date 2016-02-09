@@ -1,0 +1,28 @@
+name: Phil Evans Design
+favicon: null
+layout_spectrum: 0.39082346577197313
+typography_spectrum: 0.7195330550894141
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.047732163686305285
+  lightness: 0.36164379701949656
+  saturation: 0.13861677260138094
+  rhythmicContrast: 0.9367107467260212
+purpose: []
